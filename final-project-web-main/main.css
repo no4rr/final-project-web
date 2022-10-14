@@ -1,0 +1,20 @@
+.img{
+    width: 200px;
+    height: 300px;
+
+}
+.poster{
+    width: 200px;
+    height: 300px;
+
+}
+.container{
+    display: flex;
+    align-items: center;
+    flex-flow: row wrap;
+    gap: 100px;
+    text-align: center;
+}
+body{
+    background-color: gray;
+}
